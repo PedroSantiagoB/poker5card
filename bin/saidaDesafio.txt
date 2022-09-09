@@ -1,0 +1,4 @@
+O(s) maior(es) blefador(es): 
+Victor com 1.121826 pontos de blefe
+O(s) maior(es) jogador(es): 
+Yurih com 3.930219 pontos

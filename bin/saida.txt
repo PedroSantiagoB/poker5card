@@ -1,0 +1,31 @@
+1 1100 HC
+Gabriel
+1 1700 OP
+Renaaan
+1 2200 TP
+Yurih
+1 1150 TK
+Eduarda
+2 800 S
+Renaaan
+Yurih
+1 1300 F
+Eduarda
+1 1100 FH
+Ellen
+1 900 FK
+Pedro
+1 1300 SF
+Pedro
+0 0 I
+1 700 RSF
+Ellen
+####
+Pedro 3000
+Eduarda 2900
+Yurih 2750
+Ellen 2400
+Renaaan 2400
+Gabriel 1700
+Lucas 850
+Victor 0
